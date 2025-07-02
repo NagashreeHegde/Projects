@@ -59,4 +59,4 @@ This project demonstrates how data science can play a vital role in solving real
 ## 📬 Contact
 Feel free to connect with me:
 - [LinkedIn](https://linkedin.com/in/nagashree-hegde)
-- [Github](github.com/NagashreeHegde)
+- [Github](https://github.com/NagashreeHegde)
